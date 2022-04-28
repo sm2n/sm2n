@@ -3,4 +3,4 @@ I have a background in mathematics, but mostly spend my time programming. I'm ma
 Currently:
 - I'm learning how to use SMT Solvers
 - I'm learning Haskell and Rust
-- Writing a Bittorrent client in Common Lisp (my favourite language)
+- Writing a [library](https://git.sr.ht/~sm2n/streamscl) for lazy sequences with stream fusion in Common Lisp
